@@ -1,0 +1,5 @@
+coqui-tts           # Text-to-speech
+vosk                # Speech recognition
+
+pypinyin            # Chinese pinyin conversion
+cutlet              # Japanese to romaji conversion
